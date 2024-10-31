@@ -1,0 +1,17 @@
+{
+    "landingPage": "/wp-admin/admin.php?page=reviews-widgets-for-yelp%2Fsettings.php",
+    "features": {
+        "networking": true
+    },
+    "steps": [
+        {
+            "step": "login"
+        },
+        {
+            "step": "setSiteOptions",
+            "options": {
+                "trustindex-yelp-preview": "1"
+            }
+        }
+    ]
+}
